@@ -23,6 +23,8 @@ Our research explores methods that enables robots to perceive, reason about, and
 
 Our research interests include efficient machine learning, multi-modal learning, multi-task learning, continual learning, machine unlearning, and their applications to robotics and computer vision, but not limited to.
 
+Since 2026, we have been actively conducting research on robot learning and are recruiting students who are interested in AI and robotics.
+
 {% include carousel.html height="75" unit="%" duration="8" number="1" %}
 
 ## NEWS ([More news...](http://ai-robotics-lab.github.io/news))
