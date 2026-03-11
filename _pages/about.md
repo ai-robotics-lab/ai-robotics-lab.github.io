@@ -21,7 +21,7 @@ Our research explores methods that enables robots to perceive, reason about, and
 
 Our research interests include efficient machine learning, multi-modal learning, multi-task learning, continual learning, machine unlearning, and their applications to robotics and computer vision, but not limited to.
 
-Since 2026, our lab (formerly known as the Vision & Learning Lab) has been actively conducting research in robot learning and is seeking motivated students interested in AI and robotics.
+Since 2026, our lab (formerly known as Vision & Learning Lab) has been actively conducting research in robot learning and is seeking motivated students interested in AI and robotics.
 
 {% include carousel.html height="75" unit="%" duration="8" number="1" %}
 
