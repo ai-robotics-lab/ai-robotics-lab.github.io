@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Publications ([Full List of Publications](http://ai-robotics-lab.github.io/publications/international-publications))
 -----
-**Stake the Points: Structure-Faithful Instance Unlearning**        
+[**Stake the Points: Structure-Faithful Instance Unlearning**](http://arxiv.org/abs/2603.12915)        
   Kiseong Hong, JungKyoo Shin, and Eunwoo Kim        
   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
 
