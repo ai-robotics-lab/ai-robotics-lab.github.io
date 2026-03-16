@@ -13,6 +13,15 @@ author_profile: true
 
 ## Projects
 -----
+**Lifelong Robot Learning**
+<img src='/images/nrf-lifelong.png' width="290" align="left" style="margin-right:50px">
+
+   This projects develops methods for lifelong learning that enables robots 
+   to leverage foundational knowledge and continuously adapt to new tasks, domains, and sensory modalities over time.      
+   
+   Funded by National Research Foundation.  <br>   
+
+-----
 **Multi-Modal Continual Learning with Context Understanding**
 <img src='/images/multi-modal continual learning5.png' width="290" align="left" style="margin-right:50px">
 
