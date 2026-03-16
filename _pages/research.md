@@ -19,7 +19,7 @@ author_profile: true
    This projects develops methods for lifelong learning that enables robots 
    to leverage foundational knowledge and continuously adapt to new tasks, domains, and sensory modalities over time.      
    
-   Funded by National Research Foundation.  <br>   
+   Funded by National Research Foundation.  <br><br>  
 
 -----
 **Multi-Modal Continual Learning with Context Understanding**
