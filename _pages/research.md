@@ -89,14 +89,6 @@ author_profile: true
    
    Funded by Samsung SDS. <br>     
 
------
-**Deep Embedding Technology for Analysis of Visual Memory Similarity**
-<img src='/images/etri.PNG' width="290" align="left" style="margin-right:50px">        
-
-   This project investigates the similarity of visual memory of 
-   similar tasks based on machine learning-based embedding algorithms.
-    
-   Funded by ETRI. <br>
    
 -----
 **Pose Estimation for Bin-Picking of a Robot**
