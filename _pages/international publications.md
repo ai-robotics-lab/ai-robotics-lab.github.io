@@ -12,7 +12,7 @@ author_profile: true
   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
 
 -----
-**Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**       
+[**Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**](https://arxiv.org/abs/2603.21484)       
   Hyundong Jin, Dongyoon Han, and Eunwoo Kim        
   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
 
