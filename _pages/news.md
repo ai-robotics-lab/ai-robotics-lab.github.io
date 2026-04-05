@@ -24,4 +24,3 @@ author_profile: true
 * [04/2024] A paper on neural architecture search is accepted to **IEEE Trans. on Image Processing**.
 * [12/2023] A paper on high-dynamic range imaging is accepted to **ICASSP 2024**.
 * [07/2023] A paper on generation-based continual learning is accepted to **ICCV 2023**.
-* [10/2022] A paper on efficient continual learning is accepted to **ECCV 2022**.
