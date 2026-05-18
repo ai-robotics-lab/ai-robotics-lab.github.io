@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2026
 -----
+**Stack-Aware Rearrangement of Objects in Confined Environments**        
+  Minseok Bae, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim        
+  *International Conference on Ubiquitous Robots (UR)*, Jul. 2026.
+
+-----
 [**Stake the Points: Structure-Faithful Instance Unlearning**](http://arxiv.org/abs/2603.12915)        
   Kiseong Hong, JungKyoo Shin, and Eunwoo Kim        
   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
