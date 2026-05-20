@@ -33,7 +33,7 @@ Eunwoo Kim is an associate professor in the School of Computer Science and Engin
 
 
 ## Publications
-* [List of Publications](https://ai-robotics-lab.github.io/publications/) 
+* [List of Publications](https://airlab.cau.ac.kr/publications/) 
 
 
 ## Awards and Honors
@@ -52,4 +52,4 @@ Eunwoo Kim is an associate professor in the School of Computer Science and Engin
 
 
 ## Teaching
-* [List of Courses](https://ai-robotics-lab.github.io/courses/)
+* [List of Courses](https://airlab.cau.ac.kr/courses/)
