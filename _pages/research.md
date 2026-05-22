@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Interests
 - Machine Learning: Multi-Modal Learning, Continual Learning, Machine Unlearning, Model Selection
-- Robotics: Robot Task Planning, Human-Robot Interaction, Robot Foundation Models, Robot Vision
+- Robotics: Robot Task Planning, Human-Robot Interaction, Robot Foundation Models, World Models
 - Computer Vision: Video Understanding, Action Segmentation, Human Pose Estimation
 
 
