@@ -28,7 +28,7 @@ Eunwoo Kim is an associate professor in the School of Computer Science and Engin
 
 ## Research Interests
 - Machine Learning: Multi-Modal Learning, Multi-Task Learning, Continual Learning, Model Selection
-- Robotics: Robot Task Planning, Human-Robot Interaction, Robot Foundation Models, Robot Vision
+- Robotics: Robot Task Planning, Human-Robot Interaction, Robot Foundation Model, World Model
 - Computer Vision: Video Understanding, Action Segmentation, Pose Estimation
 
 
