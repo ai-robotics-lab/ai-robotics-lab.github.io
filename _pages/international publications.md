@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2026
 -----
+**Distill, Suppress, and Fuse: Cross-Modal Knowledge Integration for Optical Flow-Free Temporal Action Segmentation**        
+  Seungjin Han, Gyeong-Hyeon Kim, and Eunwoo Kim        
+  *ICML 2026 Workshop on Resource-Adaptive Foundation Model Inference (AdaptFM)*, Jul. 2026.
+
+-----
 **Stack-Aware Rearrangement of Objects in Confined Environments**        
   Minseok Bae, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim        
   *International Conference on Ubiquitous Robots (UR)*, Jul. 2026.
