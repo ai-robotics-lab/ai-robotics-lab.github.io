@@ -14,7 +14,7 @@ author_profile: true
 ## Projects
 -----
 **Socially-Aligned and Trustworthy Robot Learning**
-<img src='/images/trustworthy rl.jpg' width="290" align="left" style="margin-right:50px">
+<img src='/images/trustworthy rl2.jpg' width="290" align="left" style="margin-right:50px">
 
    This project aims to develop trustworthy robot learning methods that internalize social norms, 
    enabling robots to make safe, reliable, and socially acceptable decisions in real-world environments.      
