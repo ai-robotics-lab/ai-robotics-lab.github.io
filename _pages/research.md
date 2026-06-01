@@ -13,6 +13,15 @@ author_profile: true
 
 ## Projects
 -----
+**Socially-Aligned and Trustworthy Robot Learning**
+<img src='/images/trustworthy rl.jpg' width="290" align="left" style="margin-right:50px">
+
+   This project aims to develop trustworthy robot learning methods that internalize social norms, 
+   enabling robots to make safe, reliable, and socially acceptable decisions in real-world environments.      
+   
+   Funded by NIPA.  <br>  
+
+-----
 **Lifelong Robot Learning**
 <img src='/images/nrf-lifelong2.png' width="290" align="left" style="margin-right:50px">
 
