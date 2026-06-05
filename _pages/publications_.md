@@ -7,6 +7,11 @@ author_profile: true
 
 ## Selected Publications ([Full List of Publications](http://airlab.cau.ac.kr/publications/international-publications))
 -----
+**Active Forgetting with Selective Labeling for Multi-Task Learning**        
+  Jiho Lee and Eunwoo Kim          
+  *Neurocomputing*, 2026. (Accepted)
+
+-----
 [**Stake the Points: Structure-Faithful Instance Unlearning**](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html)        
   Kiseong Hong, JungKyoo Shin, and Eunwoo Kim        
   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
