@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-
+* [06/2026] A paper on active forgetting is accepted to **Neurocomputing**.
 * [05/2026] A paper on cross-modal integration is accepted to **ICML 2026** Workshop.
 * [02/2026] Three papers are accepted to **CVPR 2026** (2 Main, 1 Findings).
 * [01/2026] A paper on cross-expanding incremental learning is accepted to **ICLR 2026**.
