@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2026
 -----
+**Active Forgetting with Selective Labeling for Multi-Task Learning**        
+  Jiho Lee and Eunwoo Kim          
+  *Neurocomputing*, 2026. (Accepted)
+
+-----
 **Distill, Suppress, and Fuse: Cross-Modal Knowledge Integration for Optical Flow-Free Temporal Action Segmentation**        
   Seungjin Han, Gyeong-Hyeon Kim, and Eunwoo Kim        
   *ICML 2026 Workshop on Resource-Adaptive Foundation Model Inference (AdaptFM)*, Jul. 2026.
