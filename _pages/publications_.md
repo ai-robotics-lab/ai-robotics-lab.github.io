@@ -29,7 +29,7 @@ author_profile: true
 -----
 [**XIL: Cross-Expanding Incremental Learning**](https://openreview.net/forum?id=eaAGI1lIb4)         
   Heayoun Choi, Hyundong Jin, and Eunwoo Kim         
-  *International Conference on Learning Representations (**ICLR**)*, Apr. 2026.
+  *International Conference on Learning Representations (**ICLR**)*, Apr. 2026. [[Code](https://github.com/heayounchoi/XIL)]
 
 -----
 [**Dynamic Scale Position Embedding for Cross-Modal Representation Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025009670)         
