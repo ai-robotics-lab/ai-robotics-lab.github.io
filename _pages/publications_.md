@@ -84,6 +84,11 @@ author_profile: true
    *European Conference on Computer Vision (**ECCV**)*, Oct. 2022. [[Project Page](https://jin0316.github.io/H2_Project_Page/)]
 
 -----
+[**Auto-VirtualNet: Cost-Adaptive Dynamic Architecture Search for Multi-Task Learning**](https://www.sciencedirect.com/science/article/pii/S0925231221003040?dgcid=coauthor)       
+   Eunwoo Kim, Chanho Ahn, and Songhwai Oh       
+   *Neurocomputing*, vol. 442, pp. 116-124, Jun. 2021.
+
+-----
 [**Deep Elastic Networks with Model Selection for Multi-Task Learning**](https://arxiv.org/abs/1909.04860)           
    Chanho Ahn\*, Eunwoo Kim\*, and Songhwai Oh (\* equal contribution)      
    *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2019.     
