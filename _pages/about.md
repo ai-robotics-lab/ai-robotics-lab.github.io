@@ -8,6 +8,7 @@ carousels:
     - image: /images/20240531_vllab.jpg
     - image: /images/neurips24.jpg
     - image: /images/20230403_1.jpg
+    - image: /images/busan22.jpg
 author_profile: true
 redirect_from: 
   - /about/
