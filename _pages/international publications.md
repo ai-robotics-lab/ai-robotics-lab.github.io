@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2026
 -----
-**Active Forgetting with Selective Labeling for Multi-Task Learning**        
+[**Active Forgetting with Selective Labeling for Multi-Task Learning**](https://www.sciencedirect.com/science/article/abs/pii/S0925231226016292?via%3Dihub)        
   Jiho Lee and Eunwoo Kim          
   *Neurocomputing*, 2026. (Accepted)
 
