@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Publications ([Full List of Publications](http://airlab.cau.ac.kr/publications/international-publications))
 -----
-**Active Forgetting with Selective Labeling for Multi-Task Learning**        
+[**Active Forgetting with Selective Labeling for Multi-Task Learning**](https://www.sciencedirect.com/science/article/abs/pii/S0925231226016292?via%3Dihub)        
   Jiho Lee and Eunwoo Kim          
   *Neurocomputing*, 2026. (Accepted)
 
