@@ -24,7 +24,7 @@ author_profile: true
 -----
 [**Stake the Points: Structure-Faithful Instance Unlearning**](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html)        
   Kiseong Hong, JungKyoo Shin, and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
+  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026. [[Code](https://github.com/Kiseong0753/StructGuard)]
 
 -----
 [**Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**](https://openaccess.thecvf.com/content/CVPR2026/html/Jin_Which_Concepts_to_Forget_and_How_to_Refuse_Decomposing_Concepts_CVPR_2026_paper.html)       
