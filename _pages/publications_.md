@@ -9,7 +9,7 @@ author_profile: true
 -----
 [**Active Forgetting with Selective Labeling for Multi-Task Learning**](https://www.sciencedirect.com/science/article/abs/pii/S0925231226016292?via%3Dihub)        
   Jiho Lee and Eunwoo Kim          
-  *Neurocomputing*, 2026. (Accepted)
+  *Neurocomputing*, vol. 698, Oct. 2026.
 
 -----
 [**Stake the Points: Structure-Faithful Instance Unlearning**](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html)        
