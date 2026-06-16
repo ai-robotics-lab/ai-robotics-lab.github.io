@@ -9,7 +9,7 @@ author_profile: true
 -----
 [**Active Forgetting with Selective Labeling for Multi-Task Learning**](https://www.sciencedirect.com/science/article/abs/pii/S0925231226016292?via%3Dihub)        
   Jiho Lee and Eunwoo Kim          
-  *Neurocomputing*, 2026. (Accepted)
+  *Neurocomputing*, vol. 698, Oct. 2026.
 
 -----
 **Distill, Suppress, and Fuse: Cross-Modal Knowledge Integration for Optical Flow-Free Temporal Action Segmentation**        
