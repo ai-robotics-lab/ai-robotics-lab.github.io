@@ -17,11 +17,6 @@ author_profile: true
   *ICML 2026 Workshop on Resource-Adaptive Foundation Model Inference (AdaptFM)*, Jul. 2026.
 
 -----
-**Stack-Aware Rearrangement of Objects in Confined Environments**        
-  Minseok Bae, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim        
-  *International Conference on Ubiquitous Robots (UR)*, Jul. 2026.
-
------
 [**Stake the Points: Structure-Faithful Instance Unlearning**](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html)        
   Kiseong Hong, JungKyoo Shin, and Eunwoo Kim        
   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026. [[Code](https://github.com/Kiseong0753/StructGuard)]
