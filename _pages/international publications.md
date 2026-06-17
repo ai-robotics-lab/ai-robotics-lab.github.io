@@ -12,7 +12,7 @@ author_profile: true
   *Neurocomputing*, vol. 698, Oct. 2026.
 
 -----
-**Distill, Suppress, and Fuse: Cross-Modal Knowledge Integration for Optical Flow-Free Temporal Action Segmentation**        
+[**Distill, Suppress, and Fuse: Cross-Modal Knowledge Integration for Optical Flow-Free Temporal Action Segmentation**](https://openreview.net/forum?id=iyIftYYjlE)        
   Seungjin Han, Gyeong-Hyeon Kim, and Eunwoo Kim        
   *ICML 2026 Workshop on Resource-Adaptive Foundation Model Inference (AdaptFM)*, Jul. 2026.
 
