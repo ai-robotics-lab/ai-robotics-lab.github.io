@@ -24,7 +24,7 @@ author_profile: true
 -----
 [**Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**](https://openaccess.thecvf.com/content/CVPR2026/html/Jin_Which_Concepts_to_Forget_and_How_to_Refuse_Decomposing_Concepts_CVPR_2026_paper.html)       
   Hyundong Jin, Dongyoon Han, and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
+  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026. [[Code](https://github.com/Jin0316/CORE)]
 
 -----
 [**Dual-Modality Anchor-Guided Filtering for Test-time Prompt Tuning**](https://openaccess.thecvf.com/content/CVPR2026F/html/Choi_Dual-Modality_Anchor-Guided_Filtering_for_Test-Time_Prompt_Tuning_CVPRF_2026_paper.html)       
