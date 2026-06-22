@@ -60,7 +60,7 @@ author_profile: true
 -----
 [**Contrastive In-Context Learning with Active Memory for Task Planning**](https://openreview.net/forum?id=NaayWmHgL1)         
   Jiho Lee, Kyungjae Lee, and Eunwoo Kim       
-  *CoRL 2025 Workshop on Making Sense of Data in Robotics*, Sep. 2025. [[Project Page](https://cicl-active.github.io/)]
+  *Conference on Robot Learning Workshop (**CoRLW**)*, Sep. 2025. [[Project Page](https://cicl-active.github.io/)]
 
 -----
 [**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         
