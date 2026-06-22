@@ -103,7 +103,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning**](https://openreview.net/forum?id=GI6gHATAMt)         
   Hayun Lee, Kiseong Hong, Hwanhee Lee, Sungho Suh, and Eunwoo Kim      
-   *Conference on Nueral Information Processing Systems Workshop (**NeurIPSW**)*, Dec. 2024.
+   *Conference on Neural Information Processing Systems Workshop (**NeurIPSW**)*, Dec. 2024.
 
 -----
 [**Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models**](https://ieeexplore.ieee.org/document/10801687)         
