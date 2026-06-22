@@ -14,7 +14,7 @@ author_profile: true
 -----
 [**Distill, Suppress, and Fuse: Cross-Modal Knowledge Integration for Optical Flow-Free Temporal Action Segmentation**](https://openreview.net/forum?id=iyIftYYjlE)        
   Seungjin Han, Gyeong-Hyeon Kim, and Eunwoo Kim        
-  *ICML 2026 Workshop on Resource-Adaptive Foundation Model Inference (AdaptFM)*, Jul. 2026.
+  *International Conference on Machine Learning Workshop (**ICMLW**)*, Jul. 2026.
 
 -----
 [**Stake the Points: Structure-Faithful Instance Unlearning**](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html)        
@@ -103,7 +103,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning**](https://openreview.net/forum?id=GI6gHATAMt)         
   Hayun Lee, Kiseong Hong, Hwanhee Lee, Sungho Suh, and Eunwoo Kim      
-   *NeurIPS 2024 Workshop on Adaptive Foundation Models*, Dec. 2024.
+   *Conference on Nueral Information Processing Systems Workshop (NeurIPSW)*, Dec. 2024.
 
 -----
 [**Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models**](https://ieeexplore.ieee.org/document/10801687)         
