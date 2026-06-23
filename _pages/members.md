@@ -57,7 +57,7 @@ Email: ghdrltjd (at) cau.ac.kr
 
 -----
 <img src='/images/jian son.jpg' width="140" align="left" style="margin-right:40px">
-**Jian Son**  
+**[Jian Son](https://beryl-mandevilla-615.notion.site/Jian-Son-167163c110f880b689f8cad934b312c8){:target="_blank"}**  
 Ph.D. Student          
 Research Area: Robotics, Multi-Modal Learning            
 Email: jianie1017 (at) cau.ac.kr            
