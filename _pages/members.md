@@ -99,7 +99,7 @@ Email: hsj7486 (at) cau.ac.kr
 <img src='/images/yina kim2.png' width="140" align="left" style="margin-right:40px">
 **Yina Kim**  
 M.S. Student      
-Research Area: Robotics, Human Motion Generation           
+Research Area: Robotics, Robot Foundation Models           
 Email: yina99 (at) cau.ac.kr   
 
 
