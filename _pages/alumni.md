@@ -55,6 +55,7 @@ Thesis: *Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network*
 
 ## Former Undergraduate Students
 -----
+* 2026: Yeonwoo Park
 * 2025: Jingyeong Yi, Younhun Ahn, Seongmin Kim, Seojin Lee
 * 2024: Heayoun Choi, Eunbee Lee, Seungjin Han, Yina Kim
 * 2023: Sangmin Kim, Minki Kang, Sangyun Lee, Hayun Lee, SeungHyun Kim
