@@ -122,11 +122,7 @@ Email: seojing (at) cau.ac.kr <br><br>
 
 -----
 ## Undergraduate Students
-<img src='/images/yeonwoopark.jpg' width="140" align="left" style="margin-right:40px">
-**Yeonwoo Park**  
-B.S. Student      
-Research Area: Deep Learning, Robotics          
-Email: orchidbyw1 (at) cau.ac.kr
+
 
 
 
