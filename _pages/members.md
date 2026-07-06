@@ -105,7 +105,7 @@ Email: seojing (at) cau.ac.kr
 
 -----
 <img src='/images/jaejoon lee.jpg' width="140" align="left" style="margin-right:40px">
-**Jaejoon Lee**  
+**Jaejoon Lee**   
 M.S. Student      
 Research Area: Multi-Modal Learning, Computer Vision           
 Email: jayjunlee18 (at) gmail.com <br><br>
