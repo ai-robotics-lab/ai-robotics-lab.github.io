@@ -72,22 +72,6 @@ Email: hayun0406 (at) cau.ac.kr
 
 
 -----
-<img src='/images/heayounchoi.jpg' width="140" align="left" style="margin-right:40px">
-**Heayoun Choi**  
-M.S. Student      
-Research Area: Robotics, Continual Learning           
-Email: heayounchoi (at) cau.ac.kr      
-
-
------
-<img src='/images/Jeongwon Choi.png' width="140" align="left" style="margin-right:40px">
-**Jungwon Choi**  
-M.S. Student      
-Research Area: Domain Generalization, Computer Vision           
-Email: severe0713 (at) cau.ac.kr    
-
-
------
 <img src='/images/Seungjin Han.png' width="140" align="left" style="margin-right:40px">
 **Seungjin Han**  
 M.S. Student      
