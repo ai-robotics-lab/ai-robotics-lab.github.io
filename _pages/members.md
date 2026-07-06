@@ -100,9 +100,15 @@ Email: kmchu1921 (at) cau.ac.kr
 **Seojin Lee**  
 M.S. Student      
 Research Area: Robotics, Human-Robot Interaction           
-Email: seojing (at) cau.ac.kr <br><br>
+Email: seojing (at) cau.ac.kr 
 
 
+-----
+<img src='/images/Jaejoon lee.png' width="140" align="left" style="margin-right:40px">
+**Jaejoon Lee**  
+M.S. Student      
+Research Area: Multi-Modal Learning, Computer Vision           
+Email: jayjunlee18 (at) gmail.com <br><br>
 
 -----
 ## Undergraduate Students
