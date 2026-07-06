@@ -14,6 +14,11 @@ Thesis: *Knowledge Association and Differentiation for Efficient Continual Learn
 
 ## Former M.S. Students
 -----
+**Heayoun Choi (M.S., 2026)**
+Thesis: *Class-Incremental Learning with Evolving Domains and Bidirectional Domain Transfer*         
+
+**Jungwon Choi (M.S., 2026)**
+Thesis: *Dual-Modality Anchor-Guided Filtering for Test-time Prompt Tuning*         
 
 **Hayun Lee (M.S., 2026)**   
 Thesis: *Learning When to Learn: Complexity-Aware Learning Scheduling for Continual Learning*        
