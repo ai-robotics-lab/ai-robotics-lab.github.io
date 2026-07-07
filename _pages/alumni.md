@@ -7,53 +7,53 @@ author_profile: true
 
 ## Former Ph.D. Students
 -----
-**[Hyundong Jin](https://jin0316.github.io/hyundong-jin/){:target="_blank"} (Ph.D., 2026.02)**     
+**[Hyundong Jin](https://jin0316.github.io/hyundong-jin/){:target="_blank"} (Ph.D., 2026)**     
 Thesis: *Knowledge Association and Differentiation for Efficient Continual Learning*     
 
 
 
 ## Former M.S. Students
 -----
-**Heayoun Choi (M.S., 2026.02)**     
+**Heayoun Choi (M.S., 2026)**     
 Thesis: *Class-Incremental Learning with Evolving Domains and Bidirectional Domain Transfer*         
 
-**Jungwon Choi (M.S., 2026.02)**     
+**Jungwon Choi (M.S., 2026)**     
 Thesis: *Dual-Modality Anchor-Guided Filtering for Test-time Prompt Tuning*         
 
-**Hayun Lee (M.S., 2026.02)**   
+**Hayun Lee (M.S., 2026)**   
 Thesis: *Learning When to Learn: Complexity-Aware Learning Scheduling for Continual Learning*        
 
-**Jian Son (M.S., 2025.08)**  
+**Jian Son (M.S., 2025)**  
 Thesis: *3D Human Pose Estimation with an Anatomical Graph Transformer*         
 
-**Nayoung Ko (M.S., 2025.08)**  
+**Nayoung Ko (M.S., 2025)**  
 Thesis: *MC-Seg: Mitigating Class Confusion in Class-incremental Semantic Segmentation*        
 
-**Hyunjoon Koo (M.S., 2025.02)**  
+**Hyunjoon Koo (M.S., 2025)**  
 Thesis: *Dual-Branch Scale Disentanglement for Text-Video Retrieval*         
 
-**Sejun Hong (M.S., 2024.02)**    
+**Sejun Hong (M.S., 2024)**    
 Thesis: *NeRF-DA: Neural Radiance Fields Deblurring with Active Learning*         
 
-**Sujin Choi (M.S., 2023.08)**      
+**Sujin Choi (M.S., 2023)**      
 Thesis: *Task-Specific Dynamic Model Compression for Multi-Task Learning*             
 
-**Chanjong Park (M.S., 2023.08)**      
+**Chanjong Park (M.S., 2023)**      
 Thesis: *Self-Supervised Learning with Automatic Data Augmentation for Enhancing Representation*         
 
-**Changseong Kim (M.S., 2023.08)**      
+**Changseong Kim (M.S., 2023)**      
 Thesis: *Task-specific Gating Mechanism for Heterogeneous Tasks*          
 
-**Gyeonghyeon Kim (M.S., 2023.02)**     
+**Gyeonghyeon Kim (M.S., 2023)**     
 Thesis: *Temporal Action Segmentation with Alleviating Local Context Fading*          
 
-**Soyeon Park (M.S., 2022.08)**      
+**Soyeon Park (M.S., 2022)**      
 Thesis: *Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network*         
 
-**Wonhee Cho (M.S., 2022.02)**      
+**Wonhee Cho (M.S., 2022)**      
 Thesis: *Improving Augmentation Efficiency for Few-Shot Learning*         
 
-**Hyundong Jin (M.S., 2022.02)**     
+**Hyundong Jin (M.S., 2022)**     
 Thesis: *Continual Learning without Negative Interference in a Deep Neural Network*         
 
 
