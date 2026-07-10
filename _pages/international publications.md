@@ -82,7 +82,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Self-Corrective Task Planning by Inverse Prompting with Large Language Models**](https://ieeexplore.ieee.org/document/11128028)        
   Jiho Lee, Hayun Lee, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim           
-  *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2025. [[Project Page](https://inverseprompt.github.io/)][[Video](https://youtu.be/TyFp6bzquZA)]
+  *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2025. [[Project Page](https://bit.ly/jiho-inverseprompt)][[Video](https://youtu.be/TyFp6bzquZA)]
 
 -----
 [**Mitigating Class Confusion in Class-incremental Semantic Segmentation**](https://ieeexplore.ieee.org/document/11002496)          
