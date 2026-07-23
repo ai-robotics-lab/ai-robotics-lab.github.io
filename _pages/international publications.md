@@ -14,7 +14,7 @@ author_profile: true
 -----
 [**Distill, Suppress, and Fuse: Cross-Modal Knowledge Integration for Optical Flow-Free Temporal Action Segmentation**](https://openreview.net/forum?id=iyIftYYjlE)        
   Seungjin Han, Gyeong-Hyeon Kim, and Eunwoo Kim        
-  *International Conference on Machine Learning Workshop (**ICMLW**)*, Jul. 2026.
+  *International Conference on Machine Learning Workshop (**ICMLW**)*, Jul. 2026. [[Code](https://github.com/Hsj303/RELATE)]
 
 -----
 [**Stake the Points: Structure-Faithful Instance Unlearning**](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html)        
