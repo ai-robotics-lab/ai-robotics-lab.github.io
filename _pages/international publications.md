@@ -14,7 +14,7 @@ author_profile: true
 -----
 **Stack-Aware Rearrangement of Objects in Confined Environments**          
   Minseok Bae, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim          
-  *International Conference on Ubiquitous Robots (UR)*, Jul. 2026.
+  *International Conference on Ubiquitous Robots (UR)*, Jul. 2026.        
   **(Best Conference Paper Award Candidates)**
 
 -----
