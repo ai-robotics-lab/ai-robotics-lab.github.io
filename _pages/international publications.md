@@ -12,9 +12,10 @@ author_profile: true
   *Neurocomputing*, vol. 698, Oct. 2026.
 
 -----
-**Stack-Aware Rearrangement of Objects in Confined Environments**
+**Stack-Aware Rearrangement of Objects in Confined Environments**          
   Minseok Bae, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim          
   *International Conference on Ubiquitous Robots (UR)*, Jul. 2026.
+  **(Best Conference Paper Award Candidates)**
 
 -----
 [**Distill, Suppress, and Fuse: Cross-Modal Knowledge Integration for Optical Flow-Free Temporal Action Segmentation**](https://openreview.net/forum?id=iyIftYYjlE)        
