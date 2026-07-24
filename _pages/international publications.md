@@ -11,6 +11,7 @@ author_profile: true
   Jiho Lee and Eunwoo Kim          
   *Neurocomputing*, vol. 698, Oct. 2026.
 
+-----
 **Stack-Aware Rearrangement of Objects in Confined Environments**
   Minseok Bae, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim          
   *International Conference on Ubiquitous Robots (UR)*, Jul. 2026.
