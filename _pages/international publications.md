@@ -15,7 +15,7 @@ author_profile: true
 **Stack-Aware Rearrangement of Objects in Confined Environments**          
   Minseok Bae, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim          
   *International Conference on Ubiquitous Robots (UR)*, Jul. 2026.        
-  **(Best Conference Paper Award Candidates)**
+  **(Best Conference Paper Award Candidate)**
 
 -----
 [**Distill, Suppress, and Fuse: Cross-Modal Knowledge Integration for Optical Flow-Free Temporal Action Segmentation**](https://openreview.net/forum?id=iyIftYYjlE)        
