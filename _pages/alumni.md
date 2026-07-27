@@ -7,6 +7,12 @@ author_profile: true
 
 ## Former Ph.D. Students
 -----
+**Jiho Lee (Ph.D., 2026)**     
+Thesis: Toward Adaptive Robot Learning with Foundation Models: From Task Planning to Action Policies    
+
+**Jungkyoo Shin (Ph.D., 2026)**     
+Thesis: Bridging the Video-Language Modal Gap via Semantic and Temporal Structuring    
+
 **[Hyundong Jin](https://jin0316.github.io/hyundong-jin/){:target="_blank"} (Ph.D., 2026)**     
 Thesis: *Knowledge Association and Differentiation for Efficient Continual Learning*     
 
