@@ -7,7 +7,7 @@ author_profile: true
 
 ## Former Ph.D. Students
 -----
-**Jiho Lee (Ph.D., 2026)**     
+**[Jiho Lee](https://jiho-lee-page2.github.io/){:target="_blank"} (Ph.D., 2026)**     
 Thesis: *Toward Adaptive Robot Learning with Foundation Models: From Task Planning to Action Policies*    
 
 **Jungkyoo Shin (Ph.D., 2026)**     
