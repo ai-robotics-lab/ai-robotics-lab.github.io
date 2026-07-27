@@ -15,22 +15,6 @@ Email: eunwoo (at) cau.ac.kr
 
 -----
 ## Graduate Students
-
-<img src='/images/Jung Kyoo Shin.jpg' width="140" align="left" style="margin-right:40px">
-**Jungkyoo Shin**      
-Ph.D. Student       
-Research Area: Multi-Modal Learning, Video Understanding       
-Email: neo293 (at) cau.ac.kr      
-
-
------
-<img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">
-**[Jiho Lee](https://bit.ly/jiho-lee-page){:target="_blank"}**       
-Ph.D. Student      
-Research Area: Robotics, Active Learning                 
-Email: j2hoooo (at) cau.ac.kr
-
-
 -----
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">
 **[Gyeonghyeon Kim](https://gyeonghyeon.netlify.app/){:target="_blank"}**      
