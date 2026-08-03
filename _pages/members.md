@@ -95,7 +95,7 @@ Research Area: Robotics, Machine Learning
 Email: klee9 (at) cau.ac.kr 
 
 -----
-<img src='/images/Seokhwan Jeong.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Seokhwan Jeong.jpeg' width="140" align="left" style="margin-right:40px">
 **Seokhwan Jeong**   
 B.S. Student      
 Research Area: Robotics, Machine Learning           
