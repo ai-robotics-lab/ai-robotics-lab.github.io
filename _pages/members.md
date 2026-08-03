@@ -99,7 +99,7 @@ Email: klee9 (at) cau.ac.kr
 **Seokhwan Jeong**   
 B.S. Student      
 Research Area: Robotics, Machine Learning           
-Email: tjrghks526 (at) gmail.com <br><br>
+Email: tjrghks526 (at) cau.ac.kr <br><br>
 
 
 ------
