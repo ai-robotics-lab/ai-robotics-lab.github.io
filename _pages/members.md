@@ -88,9 +88,18 @@ Email: jayjunlee18 (at) gmail.com <br><br>
 
 -----
 ## Undergraduate Students
+<img src='/images/Keon Lee.jpeg' width="140" align="left" style="margin-right:40px">
+**Keon Lee**  
+B.S. Student      
+Research Area: Robotics, Machine Learning           
+Email: klee9 (at) cau.ac.kr 
 
-
-
+-----
+<img src='/images/Seokhwan Jeong.jpg' width="140" align="left" style="margin-right:40px">
+**Seokhwan Jeong**   
+B.S. Student      
+Research Area: Robotics, Machine Learning           
+Email: tjrghks526 (at) gmail.com <br><br>
 
 
 ------
