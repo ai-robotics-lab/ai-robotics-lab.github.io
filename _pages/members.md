@@ -98,8 +98,15 @@ Email: klee9 (at) cau.ac.kr
 **Seokhwan Jeong**   
 B.S. Student      
 Research Area: Robotics, Machine Learning           
-Email: tjrghks526 (at) cau.ac.kr <br><br>
+Email: tjrghks526 (at) cau.ac.kr 
 
+
+-----
+<img src='/images/jinseo park.jpg' width="140" align="left" style="margin-right:40px">
+**Jinseo Park**   
+B.S. Student      
+Research Area: Robotics, Machine Learning           
+Email: parkjjjsss0127 (at) gmail.com <br><br>
 
 ------
 ## [Former Members](https://airlab.cau.ac.kr/alumni/)
