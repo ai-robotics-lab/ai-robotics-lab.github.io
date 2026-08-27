@@ -47,7 +47,7 @@ Eunwoo Kim is an associate professor in the School of Computer Science and Engin
 
 ## Professional Activities
 **Technical Program Committee Member or Reviewer**
-* CVPR, ICCV, ECCV, WACV, BMVC, NeurIPS, ICLR, ICML, AAAI, RSS, CoRL, ICRA, IROS
+* CVPR, ICCV, ECCV, WACV, BMVC, NeurIPS, ICLR, ICML, AAAI, ICRA, IROS, RSS, CoRL
 * IEEE TNNLS, IEEE TIP, IEEE TRO, IEEE JSTSP, Pattern Recognition, Neural Networks
 
 
