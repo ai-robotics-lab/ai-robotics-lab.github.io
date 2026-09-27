@@ -9,7 +9,7 @@ author_profile: true
 -----
 **Action-Incrementer: Action-incremental Learning for Temporal Action Segmentation**       
   Gyeong-hyeon Kim, Hyundong Jin, Dongyoon Han, and Eunwoo Kim          
-  *Computer Vision and Image Understanding (**CVIU**)*, 2026. (Accepted)
+  *Computer Vision and Image Understanding (**CVIU**)*, 2026. **(Accepted)**
 
 -----
 [**Active Forgetting with Selective Labeling for Multi-Task Learning**](https://www.sciencedirect.com/science/article/abs/pii/S0925231226016292?via%3Dihub)        
