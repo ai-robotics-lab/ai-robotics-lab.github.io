@@ -47,7 +47,7 @@ Eunwoo Kim is an associate professor in the School of Computer Science and Engin
 
 ## Professional Activities
 **Associate Editor**
-* ICRA 2027
+* IEEE International Conference on Robotics and Automation (ICRA) 2027
 
 **Technical Program Committee Member or Reviewer**
 * CVPR, ICCV, ECCV, WACV, NeurIPS, ICLR, ICML, AAAI, ICRA, IROS, RSS, CoRL
