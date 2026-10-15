@@ -7,6 +7,11 @@ author_profile: true
 
 ## Selected Publications ([Full List of Publications](http://airlab.cau.ac.kr/publications/international-publications))
 -----
+**Rethinking the Test-Time Prompt Tuning Objective from the Perspective of Calibration**       
+  Jungwon Choi, Hyeonseo Jang, Kibok Lee, and Eunwoo Kim       
+  *IEEE/CVF Winter Conference on Applications of Computer Vision*, Jan. 2027. (**Accepted**)
+
+-----
 [**Active Forgetting with Selective Labeling for Multi-Task Learning**](https://www.sciencedirect.com/science/article/abs/pii/S0925231226016292?via%3Dihub)        
   Jiho Lee and Eunwoo Kim          
   *Neurocomputing*, vol. 698, Oct. 2026.
@@ -14,17 +19,17 @@ author_profile: true
 -----
 [**Stake the Points: Structure-Faithful Instance Unlearning**](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html)        
   Kiseong Hong, JungKyoo Shin, and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026. [[Code](https://github.com/Kiseong0753/StructGuard)]
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026. [[Code](https://github.com/Kiseong0753/StructGuard)]
 
 -----
 [**Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**](https://openaccess.thecvf.com/content/CVPR2026/html/Jin_Which_Concepts_to_Forget_and_How_to_Refuse_Decomposing_Concepts_CVPR_2026_paper.html)       
   Hyundong Jin, Dongyoon Han, and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026. [[Code](https://github.com/Jin0316/CORE)]
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026. [[Code](https://github.com/Jin0316/CORE)]
 
 -----
 [**Dual-Modality Anchor-Guided Filtering for Test-time Prompt Tuning**](https://openaccess.thecvf.com/content/CVPR2026F/html/Choi_Dual-Modality_Anchor-Guided_Filtering_for_Test-Time_Prompt_Tuning_CVPRF_2026_paper.html)       
   Jungwon Choi and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) (Findings)*, Jun. 2026.
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) (Findings)*, Jun. 2026.
 
 -----
 [**XIL: Cross-Expanding Incremental Learning**](https://openreview.net/forum?id=eaAGI1lIb4)         
@@ -39,12 +44,12 @@ author_profile: true
 -----
 [**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**](https://openaccess.thecvf.com/content/ICCV2025/html/Jin_Instruction-Grounded_Visual_Projectors_for_Continual_Learning_of_Generative_Vision-Language_Models_ICCV_2025_paper.html)           
   Hyundong Jin, Hyung Jin Chang, and Eunwoo Kim           
-  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Project Page](https://jin0316.github.io/MVP_Project_Page/)]
+  *International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Project Page](https://jin0316.github.io/MVP_Project_Page/)]
 
 -----
 [**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2025/html/Hong_RainbowPrompt_Diversity-Enhanced_Prompt-Evolving_for_Continual_Learning_ICCV_2025_paper.html)           
   Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim           
-  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Code](https://github.com/Kiseong0753/RainbowPrompt)]
+  *International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Code](https://github.com/Kiseong0753/RainbowPrompt)]
 
 -----
 [**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         
@@ -54,7 +59,7 @@ author_profile: true
 -----
 [**Generative Modeling of Class Probability for Multi Modal Representation Learning**](https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Generative_Modeling_of_Class_Probability_for_Multi-Modal_Representation_Learning_CVPR_2025_paper.html)        
   Jungkyoo Shin, Bumsoo Kim, and Eunwoo Kim           
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2025.         
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2025.         
   **(Highlight, Acceptance Rate: 3%)**
 
 -----
@@ -76,7 +81,7 @@ author_profile: true
 -----
 [**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2023/html/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.html)         
   Hyundong Jin, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim       
-   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2023. [[Project Page](https://jin0316.github.io/GrowBrain_Project_Page/)]
+   *International Conference on Computer Vision (**ICCV**)*, Oct. 2023. [[Project Page](https://jin0316.github.io/GrowBrain_Project_Page/)]
 
 -----
 [**Helpful or Harmful: Inter-Task Association in Continual Learning**](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_31)       
@@ -91,7 +96,7 @@ author_profile: true
 -----
 [**Deep Elastic Networks with Model Selection for Multi-Task Learning**](https://arxiv.org/abs/1909.04860)           
    Chanho Ahn\*, Eunwoo Kim\*, and Songhwai Oh (\* equal contribution)      
-   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2019.     
+   *International Conference on Computer Vision (**ICCV**)*, Oct. 2019.     
 
 -----
 [**Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks**](https://arxiv.org/abs/1904.04562)      
