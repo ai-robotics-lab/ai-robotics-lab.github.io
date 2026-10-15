@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/international-publications
 author_profile: true
 ---
+## 2027
+-----
+**Rethinking the Test-Time Prompt Tuning Objective from the Perspective of Calibration**       
+  Jungwon Choi, Hyeonseo Jang, Kibok Lee, and Eunwoo Kim       
+  *IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)*, Jan. 2027. (**Accepted**)
+
 
 ## 2026
 -----
@@ -30,17 +36,17 @@ author_profile: true
 -----
 [**Stake the Points: Structure-Faithful Instance Unlearning**](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html)        
   Kiseong Hong, JungKyoo Shin, and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026. [[Code](https://github.com/Kiseong0753/StructGuard)]
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026. [[Code](https://github.com/Kiseong0753/StructGuard)]
 
 -----
 [**Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**](https://openaccess.thecvf.com/content/CVPR2026/html/Jin_Which_Concepts_to_Forget_and_How_to_Refuse_Decomposing_Concepts_CVPR_2026_paper.html)       
   Hyundong Jin, Dongyoon Han, and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026. [[Code](https://github.com/Jin0316/CORE)]
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026. [[Code](https://github.com/Jin0316/CORE)]
 
 -----
 [**Dual-Modality Anchor-Guided Filtering for Test-time Prompt Tuning**](https://openaccess.thecvf.com/content/CVPR2026F/html/Choi_Dual-Modality_Anchor-Guided_Filtering_for_Test-Time_Prompt_Tuning_CVPRF_2026_paper.html)       
   Jungwon Choi and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) (Findings)*, Jun. 2026.
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) (Findings)*, Jun. 2026.
 
 -----
 [**XIL: Cross-Expanding Incremental Learning**](https://openreview.net/forum?id=eaAGI1lIb4)         
@@ -56,12 +62,12 @@ author_profile: true
 -----
 [**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**](https://openaccess.thecvf.com/content/ICCV2025/html/Jin_Instruction-Grounded_Visual_Projectors_for_Continual_Learning_of_Generative_Vision-Language_Models_ICCV_2025_paper.html)           
   Hyundong Jin, Hyung Jin Chang, and Eunwoo Kim           
-  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Project Page](https://jin0316.github.io/MVP_Project_Page/)]
+  *International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Project Page](https://jin0316.github.io/MVP_Project_Page/)]
 
 -----
 [**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2025/html/Hong_RainbowPrompt_Diversity-Enhanced_Prompt-Evolving_for_Continual_Learning_ICCV_2025_paper.html)           
   Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim           
-  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Code](https://github.com/Kiseong0753/RainbowPrompt)]
+  *International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Code](https://github.com/Kiseong0753/RainbowPrompt)]
 
 -----
 [**Dual-Branch Scale Disentanglement for Text-Video Retrieval**](https://www.sciencedirect.com/science/article/pii/S0167865525002430)         
@@ -87,7 +93,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Generative Modeling of Class Probability for Multi Modal Representation Learning**](https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Generative_Modeling_of_Class_Probability_for_Multi-Modal_Representation_Learning_CVPR_2025_paper.html)        
   Jungkyoo Shin, Bumsoo Kim, and Eunwoo Kim           
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2025.          
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2025.          
   **(Highlight, Acceptance Rate: 3%)**
 
 -----
@@ -152,7 +158,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2023/html/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.html)         
   Hyundong Jin, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim       
-   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2023. [[Project Page](https://jin0316.github.io/GrowBrain_Project_Page/)]
+   *International Conference on Computer Vision (**ICCV**)*, Oct. 2023. [[Project Page](https://jin0316.github.io/GrowBrain_Project_Page/)]
 
 -----
 [**GhostNeXt: Rethinking Module Configurations for Efficient Model Design**](https://www.mdpi.com/2076-3417/13/5/3301)         
@@ -206,7 +212,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Deep Elastic Networks with Model Selection for Multi-Task Learning**](https://arxiv.org/abs/1909.04860)           
    Chanho Ahn\*, Eunwoo Kim\*, and Songhwai Oh (\* equal contribution)      
-   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2019.     
+   *International Conference on Computer Vision (**ICCV**)*, Oct. 2019.     
 
 -----
 [**A Scalable Framework for Data-Driven Subspace Representation and Clustering**](https://www.sciencedirect.com/science/article/pii/S0167865519302107)        
