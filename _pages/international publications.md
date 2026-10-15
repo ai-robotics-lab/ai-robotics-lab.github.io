@@ -8,7 +8,7 @@ author_profile: true
 -----
 **Rethinking the Test-Time Prompt Tuning Objective from the Perspective of Calibration**       
   Jungwon Choi, Hyeonseo Jang, Kibok Lee, and Eunwoo Kim       
-  *IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)*, Jan. 2027. (**Accepted**)
+  *IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)*, Jan. 2027. 
 
 
 ## 2026
