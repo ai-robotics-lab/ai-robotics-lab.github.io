@@ -19,7 +19,7 @@ redirect_from:
 The AI & Robotics Laboratory at CAU aims to push the boundary of robot learning research by developing efficient, versatile, and scalable models, towards general-purpose AI.
 Our research explores methods that enables robots to perceive, reason about, and learn diverse real-world tasks through interaction with the physical world.
 
-Our research interests include efficient machine learning, multi-modal learning, multi-task learning, continual learning, machine unlearning, and their applications to robotics and computer vision, but not limited to.
+Our research interests include efficient machine learning, multi-modal learning, multi-task learning, continual learning, machine unlearning, and their applications to computer vision and robotics, but not limited to.
 
 Since 2026, our lab (formerly Vision & Learning Lab) has been actively conducting research in robot learning and is seeking motivated students interested in robotics and AI.
 
