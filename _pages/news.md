@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* [10/2026] A paper on vision-language-action model adaptation is accepted to **IEEE RA-L**.
 * [10/2026] A paper on test-time prompt tuning is accepted to **WACV 2027**.
 * [09/2026] A paper on action-incremental learning is accepted to **CVIU**.
 * [06/2026] A paper on active forgetting is accepted to **Neurocomputing**.
