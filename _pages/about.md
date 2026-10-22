@@ -26,6 +26,7 @@ Since 2026, our lab (formerly Vision & Learning Lab) has been actively conductin
 {% include carousel.html height="75" unit="%" duration="8" number="1" %}
 
 ## NEWS ([More news...](http://airlab.cau.ac.kr/news))
+* [10/2026] A paper on vision-language-action model adaptation is accepted to **IEEE RA-L**.
 * [10/2026] A paper on test-time prompt tuning is accepted to **WACV 2027**.
 * [09/2026] A paper on action-incremental learning is accepted to **CVIU**.
 * [06/2026] A paper on active forgetting is accepted to **Neurocomputing**.
