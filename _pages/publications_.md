@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Selected Publications ([Full List of Publications](http://airlab.cau.ac.kr/publications/international-publications))
+----
+**Can Vision-Language-Action Models Adapt to Visual Perturbations Using a Test-Time Trajectory?**      
+  Jiho Lee, Heayoun Choi, and Eunwoo Kim          
+  *IEEE Robotics annd Automation Letters (RA-L)*, 2027. (Accepted)
+
 -----
 **Rethinking the Test-Time Prompt Tuning Objective from the Perspective of Calibration**       
   Jungwon Choi, Hyeonseo Jang, Kibok Lee, and Eunwoo Kim       
