@@ -17,11 +17,6 @@ author_profile: true
   *IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)*, Jan. 2027. 
 
 -----
-[**Active Forgetting with Selective Labeling for Multi-Task Learning**](https://www.sciencedirect.com/science/article/abs/pii/S0925231226016292?via%3Dihub)        
-  Jiho Lee and Eunwoo Kim          
-  *Neurocomputing*, vol. 698, Oct. 2026.
-
------
 [**Stake the Points: Structure-Faithful Instance Unlearning**](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html)        
   Kiseong Hong, JungKyoo Shin, and Eunwoo Kim        
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026. [[Code](https://github.com/Kiseong0753/StructGuard)]
@@ -92,11 +87,6 @@ author_profile: true
 [**Helpful or Harmful: Inter-Task Association in Continual Learning**](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_31)       
   Hyundong Jin and Eunwoo Kim       
    *European Conference on Computer Vision (**ECCV**)*, Oct. 2022. [[Project Page](https://jin0316.github.io/H2_Project_Page/)]
-
------
-[**Auto-VirtualNet: Cost-Adaptive Dynamic Architecture Search for Multi-Task Learning**](https://www.sciencedirect.com/science/article/pii/S0925231221003040?dgcid=coauthor)       
-   Eunwoo Kim, Chanho Ahn, and Songhwai Oh       
-   *Neurocomputing*, vol. 442, pp. 116-124, Jun. 2021.
 
 -----
 [**Deep Elastic Networks with Model Selection for Multi-Task Learning**](https://arxiv.org/abs/1909.04860)           
