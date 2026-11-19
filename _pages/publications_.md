@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Publications ([Full List of Publications](http://airlab.cau.ac.kr/publications/international-publications))
 ----
-**Can Vision-Language-Action Models Adapt to Visual Perturbations Using a Test-Time Trajectory?**      
+[**Can Vision-Language-Action Models Adapt to Visual Perturbations Using a Test-Time Trajectory?**](https://ieeexplore.ieee.org/document/11802942)      
   Jiho Lee, Heayoun Choi, and Eunwoo Kim          
   *IEEE Robotics annd Automation Letters (**RA-L**)*, 2027.
 
