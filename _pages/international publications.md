@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## 2027
 ----
-**Can Vision-Language-Action Models Adapt to Visual Perturbations Using a Test-Time Trajectory?**      
+[**Can Vision-Language-Action Models Adapt to Visual Perturbations Using a Test-Time Trajectory?**](https://ieeexplore.ieee.org/document/11802942)      
   Jiho Lee, Heayoun Choi, and Eunwoo Kim          
   *IEEE Robotics annd Automation Letters (**RA-L**)*, 2027.
 
