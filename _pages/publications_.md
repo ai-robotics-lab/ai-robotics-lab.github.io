@@ -14,7 +14,7 @@ author_profile: true
 ----
 [**Can Vision-Language-Action Models Adapt to Visual Perturbations Using a Test-Time Trajectory?**](https://ieeexplore.ieee.org/document/11802942)      
   Jiho Lee, Heayoun Choi, and Eunwoo Kim          
-  *IEEE Robotics annd Automation Letters (**RA-L**)*, vol. 12, no. 1, pp. 566-573, Jan. 2027.
+  *IEEE Robotics annd Automation Letters (**RA-L**)*, vol. 12, no. 1, pp. 566-573, Jan. 2027. [[Project Page](https://tta-vla2.github.io/)]
 
 -----
 [**Stake the Points: Structure-Faithful Instance Unlearning**](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html)        
