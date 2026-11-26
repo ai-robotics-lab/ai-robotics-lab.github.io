@@ -5,15 +5,15 @@ permalink: /publications/international-publications
 author_profile: true
 ---
 ## 2027
-----
-[**Can Vision-Language-Action Models Adapt to Visual Perturbations Using a Test-Time Trajectory?**](https://ieeexplore.ieee.org/document/11802942)      
-  Jiho Lee, Heayoun Choi, and Eunwoo Kim          
-  *IEEE Robotics annd Automation Letters (**RA-L**)*, vol. 12, no. 1, Jan. 2027.
-
 -----
 **Rethinking the Test-Time Prompt Tuning Objective from the Perspective of Calibration**       
   Jungwon Choi, Hyeonseo Jang, Kibok Lee, and Eunwoo Kim       
   *IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)*, Jan. 2027. 
+
+----
+[**Can Vision-Language-Action Models Adapt to Visual Perturbations Using a Test-Time Trajectory?**](https://ieeexplore.ieee.org/document/11802942)      
+  Jiho Lee, Heayoun Choi, and Eunwoo Kim          
+  *IEEE Robotics annd Automation Letters (**RA-L**)*, vol. 12, no. 1, Jan. 2027.
 
 
 ## 2026
